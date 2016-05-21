@@ -69,9 +69,15 @@
 			?>
 			<h2>Mod Pack</h2>
 			<p>Feed the Beast - Sky Factory [2.5.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-presents-skyfactory-2-5">here</a>.</p>
-			<!--<p>Feed the Beast - Departed [1.4.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-departed">here</a>.</p>-->
-			<!--<p>I've also added <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft">Dynmap</a> to the server. You should be able to reach it if the server is running and my iptables didn't bork again.<br/>-->
 			<a href="http://minecraft.alexanderlyons.net:8123">The Server Map</a></p>
+			<h3>Current Mod Pack</h3>
+			<p>Feed the Beast - Regrowth [0.7.4] can be found in the third party tab of the FTB Launcher. A link to the wiki is <a href="http://ftbwiki.org/Regrowth">here</a>.</a></p>
+			<h3>Previous Mod Pack</h3>
+			<p>Feed the Beast - Departed [1.4.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-departed">here</a>.</p>
+			<p>Feed the Beast - Departed [1.4.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-departed">here</a>.</p>
+			<p>Server Mapping is currently down, will add soon. (Hopefully not Blizzard soon, but you know).</p>
+			<!-- <p>I've also added <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft">Dynmap</a> to the server. You should be able to reach it if the server is running and my iptables didn't bork again.<br/>
+			<a href="http://minecraft.alexanderlyons.net:8123">The Server Map</a></p> -->
 			<h2>Server Info</h2>
 			<p>Message me for the information for the server. We also have a Discord server up for VoIP and when we are really killing mobs.</p>
 			<h2>How do I get the mod pack?</h2>
