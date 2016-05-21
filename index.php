@@ -15,9 +15,9 @@
 	<body>
 		<div class="container">
 			<h1>Welcome to the Server</h1>
-			<p>Hey everyone, this is the Minecraft server of Alex. I am currently running a Feed the Beast - Departed server. If you know who I am, please feel free to message me and join the server. If you found this by chance, I must ask that you please don't connect to the server, I am currently running this for friends/as a pet project, and am not looking at moderating a public server.</p>
+			<p>Hey everyone, this is the Minecraft server of Alex. I am currently running a Feed the Beast - Sky Factory 2.5. If you know who I am, please feel free to message me and join the server. If you found this by chance, I must ask that you please don't connect to the server, I am currently running this for friends/as a pet project, and am not looking at moderating a public server.</p>
 			<h2>What's Happening</h2>
-			<p>We are currently running together and have a base pretty close to spawn. Please be respectful of the work everyone is doing as we are all working together to start going to different dimensions and survive.</p>
+			<p>When you spawn, press the button.</p>
 			<h2>Server Status</h2>
 			<?php
     				require_once(__DIR__.'/php/MinecraftQuery.php');
@@ -68,11 +68,12 @@
 	    			}
 			?>
 			<h2>Mod Pack</h2>
-			<p>Feed the Beast - Departed [1.4.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-departed">here</a>.</p>
-			<p>I've also added <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft">Dynmap</a> to the server. You should be able to reach it if the server is running and my iptables didn't bork again.<br/>
+			<p>Feed the Beast - Sky Factory [2.5.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-presents-skyfactory-2-5">here</a>.</p>
+			<!--<p>Feed the Beast - Departed [1.4.0] can be found <a href="http://www.feed-the-beast.com/projects/ftb-departed">here</a>.</p>-->
+			<!--<p>I've also added <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft">Dynmap</a> to the server. You should be able to reach it if the server is running and my iptables didn't bork again.<br/>-->
 			<a href="http://minecraft.alexanderlyons.net:8123">The Server Map</a></p>
 			<h2>Server Info</h2>
-			<p>Message me for the information for the server. We also have a Team Speak 3 server up for VoIP and when we are really killing mobs.</p>
+			<p>Message me for the information for the server. We also have a Discord server up for VoIP and when we are really killing mobs.</p>
 			<h2>How do I get the mod pack?</h2>
 			<p>This is actually the easy part, just go to the <a href="http://www.feed-the-beast.com/">Feed the Beast website</a> and download the stable launcher. Once you have installed that and logged into your Minecraft account, download the modpack via the launcher. Notice: Please download the correct version of the pack, the launcher defaults to 'Recommended' and that may not be the version the server is (read as the admin is lazy and doesn't update the server like he should). I will post a notice if the server is updated and try to make sure the server description is up to date as well.</p>
 			<h2>About this Website</h2>
